@@ -25,8 +25,6 @@ I'm the cofounder of [PUG](https://getpug.dev), a tool built to make documentati
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-+ More
-
 ## Reach Out
 
 Always open to thoughtful conversations around dev tools, AI, product design, and systems that scale. If you're building something in the space, or want to collaborate, feel free to reach out.
