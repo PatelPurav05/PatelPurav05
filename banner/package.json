@@ -1,0 +1,14 @@
+{
+  "name": "purav-profile-banner",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "author": "tsx author.ts",
+    "export": "sh export.sh"
+  },
+  "devDependencies": {
+    "@clayzo/animation": "0.3.9",
+    "clayzo": "0.3.9",
+    "tsx": "^4.20.0"
+  }
+}
