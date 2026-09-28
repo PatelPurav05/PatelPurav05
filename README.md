@@ -13,4 +13,4 @@ Previously I built [PUG Sleeve](https://sleeve.getpug.dev) and [PUG](https://get
 
 ## Reach out
 
-I'm always open to conversations about dev tools, AI, motion and product design. If you're building something in the space or want to collaborate, reach me at [purav.dev](https://purav.dev) or [@patelpurav05](https://x.com/patelpurav05).
+I'm always open to conversations about dev tools, AI, motion and product design. If you're building something in the space or want to collaborate, reach me at [purav@clayzo.com](mailto:purav@clayzo.com) or [@patelpurav05](https://x.com/patelpurav05).
