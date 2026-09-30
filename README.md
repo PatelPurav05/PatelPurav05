@@ -9,8 +9,6 @@ I'm the co-founder of [Clayzo](https://clayzo.com), an animation engine built fo
 
 The banner above is Clayzo too: an agent wrote it as [one TypeScript file](./banner/author.ts) and exported it to GIF. To try it, run `npx clayzo@latest init` and ask your agent for an animation in a sentence.
 
-Previously I built [PUG Sleeve](https://sleeve.getpug.dev) and [PUG](https://getpug.dev).
-
 ## Reach out
 
 I'm always open to conversations about dev tools, AI, motion and product design. If you're building something in the space or want to collaborate, reach me at [purav@clayzo.com](mailto:purav@clayzo.com) or [@patelpurav05](https://x.com/patelpurav05).
